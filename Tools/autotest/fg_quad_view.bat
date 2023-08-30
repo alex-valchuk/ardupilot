@@ -9,12 +9,12 @@ fgfs ^
     --fdm=external ^
     --aircraft=arducopter ^
     --fg-aircraft=%AUTOTESTDIR% ^
-    --airport=KSFO ^
+    --airport=BEREZI ^
     --geometry=650x550 ^
     --bpp=32 ^
     --disable-hud-3d ^
     --disable-horizon-effect ^
-    --timeofday=noon ^
+    --timeofday=dawn ^
     --disable-sound ^
     --disable-fullscreen ^
     --disable-random-objects ^
